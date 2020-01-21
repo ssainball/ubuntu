@@ -9,7 +9,7 @@ log:
 
 p2p:
    listen_address: "/ip4/0.0.0.0/tcp/3300"
-   public_address: "/ip4/35.228.80.218/tcp/3300"
+   public_address: "/ip4/xx.xx.xx.xx/tcp/3300"
    #max_unreachable_nodes_to_connect_per_event: 64
    #max_connections: 500 
    gossip_interval: 5s
